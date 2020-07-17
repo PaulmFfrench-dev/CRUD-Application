@@ -23,7 +23,7 @@ if(isset($_POST['Submit'])){
 <!DOCTYPE>
 <html>
 	<head>
-	<title> Update database </title>
+	<title> Update database Test </title>
     <link rel="stylesheet" href="Include/style.css">
 	</head>
 	<body>
